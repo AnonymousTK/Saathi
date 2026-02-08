@@ -1,10 +1,8 @@
-**🤝 Saathi**
+**<h1>🤝 Saathi</h1>**
+<br>
+**<h2>Mitigating Urban Loneliness through Intelligent Connectivity</h2>**
 
-**Mitigating Urban Loneliness through Intelligent Connectivity**
-
-Saathi is a social connectivity platform designed to bridge the gap in urban social circles. By matching users based on shared interests and geographic proximity, Saathi facilitates meaningful human connections through automated recommendations and secure, real-time communication.
-
-
+**Saathi is a social connectivity platform designed to bridge the gap in urban social circles. By matching users based on shared interests and geographic proximity, Saathi facilitates meaningful human connections through automated recommendations and secure, real-time communication.**<br>
 
 **🚀 Key Features & Technical Implementation:**
 
